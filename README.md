@@ -1,15 +1,13 @@
 
-# 💫 Hi 👋, I'm Kanishk Gupta
+#Hi 👋, I'm Kanishk Gupta
 **A passionate Front-End Developer || Machine Learning Enthusiast
 
-Email Me 👉 ✉️ **kanishkgupta276@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **kanishkgupta276@gmail.com** for collaboration, project inquiries, or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** React Projects
 - 🌱 **I’m currently learning:** Python Libaries
 - 💬 **Ask me about:** Collaboration.
 - 📫 **How to reach me:** kanishkgupta276@gmail.com
-- 😄 **Pronouns:** Kanishk Gupta
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 <!-- Snake Game Repo View -->
 
