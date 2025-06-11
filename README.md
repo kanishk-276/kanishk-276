@@ -1,5 +1,5 @@
 
-#Hi 👋, I'm Kanishk Gupta
+# Hi 👋, I'm Kanishk Gupta
 **A passionate Front-End Developer || Machine Learning Enthusiast
 
 Email Me 👉 ✉️ **kanishkgupta276@gmail.com** for collaboration, project inquiries, or Anything Else. 😊😊
